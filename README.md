@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there :v:
+
+- :briefcase: Postdoc in the [MOVE Lab](https://github.com/move-ucsb)
+- :house: Currently located in [Santa Barbara, California](https://www.openstreetmap.org/#map=12/34.4195/-119.7011)
+- 💬 Pronouns: [she/her](http://mypronouns.org/she) or [they/them](http://mypronouns.org/they)
 
 <!--
 **crysb/crysb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

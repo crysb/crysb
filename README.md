@@ -1,6 +1,6 @@
 ### Hi there :v:
 
-- :briefcase: Postdoc in the [MOVE Lab](https://github.com/move-ucsb)
+- :briefcase: Assistant Instructional Professor at the University of Chicago; former postdoc in the [MOVE Lab](https://github.com/move-ucsb)
 - :house: Currently located in [Santa Barbara, California](https://www.openstreetmap.org/#map=12/34.4195/-119.7011)
 - 💬 Pronouns: [she/her](http://mypronouns.org/she) or [they/them](http://mypronouns.org/they)
 

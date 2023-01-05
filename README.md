@@ -3,7 +3,7 @@
 - :briefcase: Assistant Instructional Professor at the University of Chicago; former postdoc in the [MOVE Lab](https://github.com/move-ucsb)
 - :house: Currently located in [Chicago, Illinois](https://www.openstreetmap.org/#map=12/41.8341/-87.7321)
 - 💬 Pronouns: [she/her](http://mypronouns.org/she) or [they/them](http://mypronouns.org/they)
-- :mammoth: [@crysb](https://fosstodon.org/@crysb)
+- Mastodon: [@crysb@fosstodon.org](https://fosstodon.org/@crysb)
 
 <!--
 **crysb/crysb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
